@@ -1,0 +1,23 @@
+.navcolor {
+  background-color: #8cbf3f !important;
+}
+
+.navfontcolor {
+  color: #0d0d0d !important;
+  font-family: "pattaya", "henny penny";
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.purple {
+  color: #9453a6;
+}
+
+.yellow {
+  background-color: #f2cc0f;
+}
+/*# sourceMappingURL=about.css.map */

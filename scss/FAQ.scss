@@ -1,0 +1,26 @@
+$purple: #9453a6;
+$green: #8cbf3f;
+$yellow: #f2cc0f;
+$white-project: #f2f2f2;
+$black-project: #0d0d0d;
+$headline-font: "pattaya", "henny penny";
+$website-font: "roboto", sans-serif;
+.navcolor {
+  background-color: $green !important;
+}
+.navfontcolor {
+  color: $black-project !important;
+  font-family: $headline-font;
+}
+.flex {
+  display: flex;
+}
+.yellow {
+  background-color: $yellow;
+}
+.green {
+  background-color: $green;
+}
+.purple {
+  background-color: $purple;
+}

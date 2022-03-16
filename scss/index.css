@@ -1,0 +1,39 @@
+.navcolor {
+  background-color: #8cbf3f !important;
+}
+
+.navfontcolor {
+  color: #0d0d0d !important;
+  font-family: "pattaya", "henny penny";
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.headline-font {
+  font-family: "pattaya", "henny penny";
+}
+
+.font-size {
+  font-size: 30px;
+}
+
+.yellow {
+  background-color: #f2cc0f;
+}
+
+.green {
+  background-color: #8cbf3f;
+}
+
+.purple {
+  background-color: #9453a6;
+}
+
+.black {
+  color: #0d0d0d;
+}
+/*# sourceMappingURL=index.css.map */
